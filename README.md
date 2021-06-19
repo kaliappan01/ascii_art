@@ -12,5 +12,5 @@ This is a *fun to-do* task using python.
 Project is created with:
 * Pillow  
 `pip install --upgrade Pillow`
-* Numpy
+* Numpy  
 `pip install numpy`
